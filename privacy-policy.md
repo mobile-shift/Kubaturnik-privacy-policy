@@ -1,6 +1,6 @@
 # Privacy Policy  
 **Kubature Calculator Lite**  
-**Effective date:** [insert date]
+**Effective date:** [01.01.2018]
 
 Kubature Calculator Lite ("the App") respects your privacy. This Privacy Policy explains how we collect, use, and protect your information.
 
@@ -10,7 +10,7 @@ The App may collect the following information:
 - Information you enter into the App (e.g., wood measurements, photos);  
 - Data used for personalized advertising (if you use the free version with ads).
 
-The App **does not collect personal information** such as your name, address, phone number, or account credentials.
+The App **does not collect personal information** such as your name, address, phone number.
 
 ## 2. Use of Data  
 Your data is used solely to provide and improve the App’s functionality:  
@@ -39,4 +39,4 @@ All calculations and information are based on public standards and for reference
 
 ## 8. Contact  
 If you have any questions about this Privacy Policy, please contact us at:  
-📧 [insert your email]
+📧 [mobile.shift.llc@gmail.com]
